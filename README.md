@@ -1,4 +1,4 @@
-# Prédire avec random forest classifier et avec decision tree classifier le cancer diagnostiqué chez un patient est un "malignant cancer"(M) ou un "benign cancer"(B).
+# Prédire avec random forest classifier, decision tree classifier, adaboost, xgboost le cancer diagnostiqué chez un patient est  un "malignant cancer"(M) ou un "benign cancer"(B).
 
 Le dataset comporte 569 observations pour 32 colonnes.
 
